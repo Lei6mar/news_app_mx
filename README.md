@@ -1,16 +1,11 @@
-# news_app
+# peliculas
 
-A new Flutter project.
+A simple project that uses https://newsapi.org/ API and implements Provider, ChangeNotifierProvider y Multiprovider and others
 
-## Getting Started
+## Run
 
-This project is a starting point for a Flutter application.
+To run the project you need to replace the apiKey value with your own apiKay value in: lib/src/services/news_service.dart
+ 
+![alt text](https://res.cloudinary.com/dkxkggrps/image/upload/c_scale,h_764/v1612059172/projects-images/news_app/ufvffgb4ney56wyehyk9.png "Tab1 page")   ![alt text](https://res.cloudinary.com/dkxkggrps/image/upload/c_scale,h_764/v1612058714/projects-images/news_app/kwjhouhmwfargchspu3s.png "Tab2 page")
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
